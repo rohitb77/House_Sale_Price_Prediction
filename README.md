@@ -8,12 +8,7 @@ Steps-
     b. Strtucture of Data
 4. Exploratory Data Analysis & Visualization
     a. Check Missing Values
-    b. Correlation between missing values and Sales Price
-    c. Check numerical varibale
-    d. Temporal variables and correlation with Sales Price
-    e. Discrete variables and correlation with Sales Price
-    f. Continuous variables, skeweness and outliers
-    g. Categorial variables and correlation with Sales Price
+    b. Check numerical varibale
 5. Missing value Imputation
 6. Handle Rare Categorial Features
 7. Label Encoding
